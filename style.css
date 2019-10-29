@@ -20,6 +20,11 @@ html, body {
   cursor: grab;
 }
 
+.all img{
+    position: absolute;
+    z-index: -111111;
+    opacity: 0;
+}
 .world-bg {
   position: absolute;
   width: 100%;
